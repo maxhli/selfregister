@@ -1,0 +1,14 @@
+{
+  "name": "selfregister",
+  "description": "Database for Go Programming Language",
+  "keywords": [
+    "selfregister",
+    "go",
+    "sample",
+    "example"
+  ],
+  "image": "heroku/go:1.6",
+  "mount_dir": "src/github.com/heroku/selfregister",
+  "website": "http://github.com/heroku/selfregister",
+  "repository": "http://github.com/heroku/selfregister"
+}
